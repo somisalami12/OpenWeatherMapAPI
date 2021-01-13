@@ -1,0 +1,45 @@
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: rgb(15, 1, 1);
+}
+
+#weatherContent {
+    display: none;
+}
+
+#cityDetail p,
+li {
+    color: #4D4F53!important;
+}
+
+.card-body p {
+    color: rgb(167, 17, 17);
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+h4 {
+    font-family: 'Open Sans', sans-serif;
+}
+h5 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
